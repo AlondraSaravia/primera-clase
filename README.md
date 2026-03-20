@@ -4,3 +4,9 @@ Markdown es un lenguaje de marcado ligero (escribir textos con formato)
 Saltos de linea: Enter dos veces
 
 Párrafo 1
+
+[linkgato](https://www.nationalgeographicla.com/animales/gato-domestico)  
+
+[imagengato](https://static.nationalgeographicla.com/files/styles/image_3200/public/75552.webp?w=1600&h=900)
+
+[gato](
